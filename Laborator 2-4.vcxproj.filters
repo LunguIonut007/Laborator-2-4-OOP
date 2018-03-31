@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.c" />
+    <ClCompile Include="Domain\Medicine\Medicine.c">
+      <Filter>Domain\Medicine</Filter>
+    </ClCompile>
+    <ClCompile Include="Domain\Medicine\MedicineValidator.c">
+      <Filter>Domain\Medicine</Filter>
+    </ClCompile>
+    <ClCompile Include="Domain\DomainTest.c">
+      <Filter>Domain</Filter>
+    </ClCompile>
+    <ClCompile Include="Service\MedicineServiceTests.c">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="Service\MedicineService\MedicineService.c">
+      <Filter>Service\MedicineService</Filter>
+    </ClCompile>
+    <ClCompile Include="Repository\RepositoryTest.c">
+      <Filter>Repository</Filter>
+    </ClCompile>
+    <ClCompile Include="Repository\MedicineRepository\MedicineRepository.c">
+      <Filter>Repository\MedicineRepository</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\UI.c">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\List.c">
+      <Filter>Utils\List</Filter>
+    </ClCompile>
+    <ClCompile Include="ListTest.c">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\Utils.c">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="UtilsTest.c">
+      <Filter>Utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{152bf6ec-0a91-4955-9620-b821877138f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Domain">
+      <UniqueIdentifier>{09ed3d64-a7c8-47c2-9fe2-91710411f14b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Repository">
+      <UniqueIdentifier>{b270499d-b26a-42b6-942f-66acbb691981}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Service">
+      <UniqueIdentifier>{01fbedda-799f-474b-a666-6a21386f1369}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Domain\Medicine">
+      <UniqueIdentifier>{74eda11c-d649-4407-aa1e-7f8fc5bb5e3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Service\MedicineService">
+      <UniqueIdentifier>{c53be227-0b09-444d-b271-0ddd3be63b0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Repository\MedicineRepository">
+      <UniqueIdentifier>{2c036d0e-9191-4ac0-a668-addcf212d926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{1c878d7e-292f-4a76-af4b-7ea64cbe7738}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\List">
+      <UniqueIdentifier>{f3d02757-4c4c-4930-be24-1b27b95663c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Domain\Medicine\Medicine.h">
+      <Filter>Domain\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="Domain\Medicine\MedicineValidator.h">
+      <Filter>Domain\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="Domain\DomainTest.h">
+      <Filter>Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="Service\MedicineServiceTests.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="Service\MedicineService\MedicineService.h">
+      <Filter>Service\MedicineService</Filter>
+    </ClInclude>
+    <ClInclude Include="Repository\RepositoryTest.h">
+      <Filter>Repository</Filter>
+    </ClInclude>
+    <ClInclude Include="Repository\MedicineRepository\MedicineRepository.h">
+      <Filter>Repository\MedicineRepository</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\UI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\List.h">
+      <Filter>Utils\List</Filter>
+    </ClInclude>
+    <ClInclude Include="ListTest.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Utils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="UtilsTest.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

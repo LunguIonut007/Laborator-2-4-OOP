@@ -1,0 +1,29 @@
+[2018-03-22 17:23:00] [info] Start Program:
+Path:"E:\Programare orientata obiect\Laborator 2-4\x64\Debug\Laborator 2-4.exe"
+Arguments:
+Working directory: "E:\Programare orientata obiect\Laborator 2-4\Laborator 2-4\"
+Modules: Selected: E:\Programare orientata obiect\Laborator 2-4\x64\Debug\Laborator 2-4.exe Excluded: 
+Sources: Selected: E:\Programare orientata obiect\Laborator 2-4\Laborator 2-4 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Ionut\AppData\Local\Temp\cyd0jsyr.042 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+
+[2018-03-22 17:23:00] [info] Module: E:\Programare orientata obiect\Laborator 2-4\x64\Debug\Laborator 2-4.exe is selected because it matches selected pattern: E:\Programare orientata obiect\Laborator 2-4\x64\Debug\Laborator 2-4.exe
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\ntdll.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\kernel32.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\KernelBase.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\vcruntime140d.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\ucrtbased.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\ucrtbased.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\kernel.appcore.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\msvcrt.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] Module: C:\Windows\System32\rpcrt4.dll is skipped because it matches no selected patterns
+[2018-03-22 17:23:00] [info] ----------------------------------------------------
+[2018-03-22 17:23:00] [info] Coverage binary generated in file: C:\Users\Ionut\AppData\Local\Temp\cyd0jsyr.042
+[2018-03-22 17:23:00] [info] ----------------------------------------------------
